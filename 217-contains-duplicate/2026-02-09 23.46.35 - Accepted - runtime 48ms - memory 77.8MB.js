@@ -1,0 +1,17 @@
+/**
+ * @param {number[]} nums
+ * @return {boolean}
+ */
+var containsDuplicate = function(nums) {
+    var obj = {} ;
+    for(let i = 0 ; i< nums.length ; i++){
+        if(obj[nums[i]] == nums[i]){
+            console.log("okoko");
+            return true ;
+        }
+        if(!obj[nums[i]]){
+            obj[nums[i]] = nums[i] ;
+        }
+    }
+    return false ;
+};
