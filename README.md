@@ -18,12 +18,12 @@
   <a href="#license"><img src="https://img.shields.io/badge/-License-brightgreen" /></a>
 </p>
 
-> A comprehensive collection of **199 LeetCode problem solutions** with detailed documentation, multiple approaches, and real-world performance metrics.
+> A comprehensive collection of **203 LeetCode problem solutions** with detailed documentation, multiple approaches, and real-world performance metrics.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems-199-green" />
+  <img src="https://img.shields.io/badge/Problems-203-green" />
   <img src="https://img.shields.io/badge/JavaScript-C%2B%2B-blue" />
   <img src="https://img.shields.io/badge/Updated-April%202026-orange" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -52,7 +52,7 @@
 <a name="overview"></a>
 ## Overview
 
-This repository documents my algorithmic problem-solving journey on LeetCode, containing **199 solved problems** across all difficulty levels. Each problem includes:
+This repository documents my algorithmic problem-solving journey on LeetCode, containing **203 solved problems** across all difficulty levels. Each problem includes:
 
 | Component | Description |
 |-----------|-------------|
